@@ -1,0 +1,22 @@
+body {
+    background-color: aliceblue;
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 90;
+    font-style: normal;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    border-radius: 20px;
+    width: 20%;
+    border-style: solid;
+    border-top: thick;
+    border-left: thick;
+    border-color: black;
+    border-radius: 20px;
+}
+
